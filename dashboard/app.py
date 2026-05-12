@@ -270,9 +270,10 @@ with tab_reg:
     st.markdown(f"### 🗺️ Regional comparison — **{indicator_label}**")
 
     # Time-series by region for chosen indicator
-    fig = px.line(fdf.dropna(subset=[indicator]),
+    _plot_df = fdf.dropna(subset=[indicator])
+    fig = px.line(_plot_df,
                   x="year", y=indicator,
-                  color=fdf["region"].astype(str),
+                  color=_plot_df["region"].astype(str),
                   markers=True,
                   color_discrete_sequence=px.colors.qualitative.Bold)
     fig.update_layout(title=f"{indicator_label} by oblast",
@@ -329,7 +330,7 @@ with tab_poverty:
     st.markdown("### 🏚️ Poverty: where it concentrates and how it moves")
 
     # Scatter — income vs poverty
-    valid = fdf.dropna(subset=["avg_per_capita_income_som","poverty_rate_pct"])
+    valid = fdf.dropna(subset=["avg_per_capita_income_som","poverty_rate_pct","poor_population_thousands"])
     slope, intercept, r, p, _ = stats.linregress(
         valid["avg_per_capita_income_som"], valid["poverty_rate_pct"])
 
