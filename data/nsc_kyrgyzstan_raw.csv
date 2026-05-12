@@ -1,0 +1,701 @@
+region_raw,region,year,indicator,value,source_category_id
+Kyrgyz Republic,Kyrgyz Republic,2023,avg_per_capita_income_som,9716.0,122
+Kyrgyz Republic,Kyrgyz Republic,2022,avg_per_capita_income_som,7948.4,122
+Kyrgyz Republic,Kyrgyz Republic,2021,avg_per_capita_income_som,6647.8,122
+Kyrgyz Republic,Kyrgyz Republic,2020,avg_per_capita_income_som,5625.4,122
+Kyrgyz Republic,Kyrgyz Republic,2019,avg_per_capita_income_som,5684.7,122
+Batken oblast,Batken,2023,avg_per_capita_income_som,9877.4,122
+Batken oblast,Batken,2022,avg_per_capita_income_som,7531.8,122
+Batken oblast,Batken,2021,avg_per_capita_income_som,6205.4,122
+Batken oblast,Batken,2020,avg_per_capita_income_som,5386.9,122
+Batken oblast,Batken,2019,avg_per_capita_income_som,5346.5,122
+Jalal-Abat oblast,Jalal-Abad,2023,avg_per_capita_income_som,10327.6,122
+Jalal-Abat oblast,Jalal-Abad,2022,avg_per_capita_income_som,8253.9,122
+Jalal-Abat oblast,Jalal-Abad,2021,avg_per_capita_income_som,6672.2,122
+Jalal-Abat oblast,Jalal-Abad,2020,avg_per_capita_income_som,5415.0,122
+Jalal-Abat oblast,Jalal-Abad,2019,avg_per_capita_income_som,5293.2,122
+Yssyk-Kul oblast,Issyk-Kul,2023,avg_per_capita_income_som,10105.3,122
+Yssyk-Kul oblast,Issyk-Kul,2022,avg_per_capita_income_som,9114.5,122
+Yssyk-Kul oblast,Issyk-Kul,2021,avg_per_capita_income_som,7173.2,122
+Yssyk-Kul oblast,Issyk-Kul,2020,avg_per_capita_income_som,6433.8,122
+Yssyk-Kul oblast,Issyk-Kul,2019,avg_per_capita_income_som,5719.5,122
+Naryn oblast,Naryn,2023,avg_per_capita_income_som,8290.5,122
+Naryn oblast,Naryn,2022,avg_per_capita_income_som,7096.2,122
+Naryn oblast,Naryn,2021,avg_per_capita_income_som,5808.8,122
+Naryn oblast,Naryn,2020,avg_per_capita_income_som,4588.5,122
+Naryn oblast,Naryn,2019,avg_per_capita_income_som,4663.7,122
+Osh oblast  (until 2013 y. including Osh city),Osh,2023,avg_per_capita_income_som,9512.8,122
+Osh oblast  (until 2013 y. including Osh city),Osh,2022,avg_per_capita_income_som,7828.4,122
+Osh oblast  (until 2013 y. including Osh city),Osh,2021,avg_per_capita_income_som,6922.4,122
+Osh oblast  (until 2013 y. including Osh city),Osh,2020,avg_per_capita_income_som,5700.5,122
+Osh oblast  (until 2013 y. including Osh city),Osh,2019,avg_per_capita_income_som,5914.4,122
+Talas oblast,Talas,2023,avg_per_capita_income_som,8406.2,122
+Talas oblast,Talas,2022,avg_per_capita_income_som,6986.7,122
+Talas oblast,Talas,2021,avg_per_capita_income_som,5732.5,122
+Talas oblast,Talas,2020,avg_per_capita_income_som,5262.9,122
+Talas oblast,Talas,2019,avg_per_capita_income_som,4834.5,122
+Chui oblast,Chuy,2023,avg_per_capita_income_som,9298.0,122
+Chui oblast,Chuy,2022,avg_per_capita_income_som,7975.8,122
+Chui oblast,Chuy,2021,avg_per_capita_income_som,6755.1,122
+Chui oblast,Chuy,2020,avg_per_capita_income_som,5774.7,122
+Chui oblast,Chuy,2019,avg_per_capita_income_som,6116.3,122
+Bishkek city,Bishkek,2023,avg_per_capita_income_som,10767.1,122
+Bishkek city,Bishkek,2022,avg_per_capita_income_som,8484.1,122
+Bishkek city,Bishkek,2021,avg_per_capita_income_som,6946.2,122
+Bishkek city,Bishkek,2020,avg_per_capita_income_som,6012.9,122
+Bishkek city,Bishkek,2019,avg_per_capita_income_som,6340.8,122
+Osh city,Osh city,2023,avg_per_capita_income_som,7581.1,122
+Osh city,Osh city,2022,avg_per_capita_income_som,5919.1,122
+Osh city,Osh city,2021,avg_per_capita_income_som,5523.1,122
+Osh city,Osh city,2020,avg_per_capita_income_som,4770.0,122
+Osh city,Osh city,2019,avg_per_capita_income_som,4892.3,122
+Kyrgyz Republic,Kyrgyz Republic,2023,avg_per_capita_expenditure_som,6291.5,121
+Kyrgyz Republic,Kyrgyz Republic,2022,avg_per_capita_expenditure_som,5393.1,121
+Kyrgyz Republic,Kyrgyz Republic,2021,avg_per_capita_expenditure_som,4681.5,121
+Kyrgyz Republic,Kyrgyz Republic,2020,avg_per_capita_expenditure_som,3913.6,121
+Kyrgyz Republic,Kyrgyz Republic,2019,avg_per_capita_expenditure_som,3899.0,121
+Batken oblast,Batken,2023,avg_per_capita_expenditure_som,4997.8,121
+Batken oblast,Batken,2022,avg_per_capita_expenditure_som,4157.4,121
+Batken oblast,Batken,2021,avg_per_capita_expenditure_som,3611.6,121
+Batken oblast,Batken,2020,avg_per_capita_expenditure_som,3110.6,121
+Batken oblast,Batken,2019,avg_per_capita_expenditure_som,3114.2,121
+Jalal-Abat oblast,Jalal-Abad,2023,avg_per_capita_expenditure_som,5185.7,121
+Jalal-Abat oblast,Jalal-Abad,2022,avg_per_capita_expenditure_som,4213.3,121
+Jalal-Abat oblast,Jalal-Abad,2021,avg_per_capita_expenditure_som,3434.5,121
+Jalal-Abat oblast,Jalal-Abad,2020,avg_per_capita_expenditure_som,2910.9,121
+Jalal-Abat oblast,Jalal-Abad,2019,avg_per_capita_expenditure_som,2981.3,121
+Yssyk-Kul oblast,Issyk-Kul,2023,avg_per_capita_expenditure_som,7160.4,121
+Yssyk-Kul oblast,Issyk-Kul,2022,avg_per_capita_expenditure_som,6806.1,121
+Yssyk-Kul oblast,Issyk-Kul,2021,avg_per_capita_expenditure_som,5866.7,121
+Yssyk-Kul oblast,Issyk-Kul,2020,avg_per_capita_expenditure_som,4810.2,121
+Yssyk-Kul oblast,Issyk-Kul,2019,avg_per_capita_expenditure_som,4242.7,121
+Naryn oblast,Naryn,2023,avg_per_capita_expenditure_som,6547.5,121
+Naryn oblast,Naryn,2022,avg_per_capita_expenditure_som,5661.3,121
+Naryn oblast,Naryn,2021,avg_per_capita_expenditure_som,4648.9,121
+Naryn oblast,Naryn,2020,avg_per_capita_expenditure_som,3829.0,121
+Naryn oblast,Naryn,2019,avg_per_capita_expenditure_som,3969.7,121
+Osh oblast  (until 2013 y. including Osh city),Osh,2023,avg_per_capita_expenditure_som,6013.1,121
+Osh oblast  (until 2013 y. including Osh city),Osh,2022,avg_per_capita_expenditure_som,5518.6,121
+Osh oblast  (until 2013 y. including Osh city),Osh,2021,avg_per_capita_expenditure_som,4922.2,121
+Osh oblast  (until 2013 y. including Osh city),Osh,2020,avg_per_capita_expenditure_som,3796.6,121
+Osh oblast  (until 2013 y. including Osh city),Osh,2019,avg_per_capita_expenditure_som,3891.8,121
+Talas oblast,Talas,2023,avg_per_capita_expenditure_som,5397.4,121
+Talas oblast,Talas,2022,avg_per_capita_expenditure_som,4367.1,121
+Talas oblast,Talas,2021,avg_per_capita_expenditure_som,3637.1,121
+Talas oblast,Talas,2020,avg_per_capita_expenditure_som,3166.3,121
+Talas oblast,Talas,2019,avg_per_capita_expenditure_som,3130.0,121
+Chui oblast,Chuy,2023,avg_per_capita_expenditure_som,6381.5,121
+Chui oblast,Chuy,2022,avg_per_capita_expenditure_som,5992.5,121
+Chui oblast,Chuy,2021,avg_per_capita_expenditure_som,5341.9,121
+Chui oblast,Chuy,2020,avg_per_capita_expenditure_som,4553.3,121
+Chui oblast,Chuy,2019,avg_per_capita_expenditure_som,4358.6,121
+Bishkek city,Bishkek,2023,avg_per_capita_expenditure_som,7434.0,121
+Bishkek city,Bishkek,2022,avg_per_capita_expenditure_som,6167.5,121
+Bishkek city,Bishkek,2021,avg_per_capita_expenditure_som,5374.1,121
+Bishkek city,Bishkek,2020,avg_per_capita_expenditure_som,4791.6,121
+Bishkek city,Bishkek,2019,avg_per_capita_expenditure_som,4873.2,121
+Osh city,Osh city,2023,avg_per_capita_expenditure_som,8778.7,121
+Osh city,Osh city,2022,avg_per_capita_expenditure_som,5331.3,121
+Osh city,Osh city,2021,avg_per_capita_expenditure_som,5099.4,121
+Osh city,Osh city,2020,avg_per_capita_expenditure_som,4149.9,121
+Osh city,Osh city,2019,avg_per_capita_expenditure_som,4268.2,121
+Kyrgyz Republic,Kyrgyz Republic,2023,poverty_rate_pct,29.8,120
+Kyrgyz Republic,Kyrgyz Republic,2022,poverty_rate_pct,33.2,120
+Kyrgyz Republic,Kyrgyz Republic,2021,poverty_rate_pct,33.3,120
+Kyrgyz Republic,Kyrgyz Republic,2020,poverty_rate_pct,25.3,120
+Kyrgyz Republic,Kyrgyz Republic,2019,poverty_rate_pct,20.1,120
+Batken oblast,Batken,2023,poverty_rate_pct,48.1,120
+Batken oblast,Batken,2022,poverty_rate_pct,48.5,120
+Batken oblast,Batken,2021,poverty_rate_pct,40.7,120
+Batken oblast,Batken,2020,poverty_rate_pct,34.7,120
+Batken oblast,Batken,2019,poverty_rate_pct,32.6,120
+Jalal-Abat oblast,Jalal-Abad,2023,poverty_rate_pct,36.1,120
+Jalal-Abat oblast,Jalal-Abad,2022,poverty_rate_pct,47.1,120
+Jalal-Abat oblast,Jalal-Abad,2021,poverty_rate_pct,43.2,120
+Jalal-Abat oblast,Jalal-Abad,2020,poverty_rate_pct,37.2,120
+Jalal-Abat oblast,Jalal-Abad,2019,poverty_rate_pct,26.9,120
+Yssyk-Kul oblast,Issyk-Kul,2023,poverty_rate_pct,30.9,120
+Yssyk-Kul oblast,Issyk-Kul,2022,poverty_rate_pct,31.2,120
+Yssyk-Kul oblast,Issyk-Kul,2021,poverty_rate_pct,38.1,120
+Yssyk-Kul oblast,Issyk-Kul,2020,poverty_rate_pct,27.9,120
+Yssyk-Kul oblast,Issyk-Kul,2019,poverty_rate_pct,24.4,120
+Naryn oblast,Naryn,2023,poverty_rate_pct,38.1,120
+Naryn oblast,Naryn,2022,poverty_rate_pct,42.0,120
+Naryn oblast,Naryn,2021,poverty_rate_pct,39.2,120
+Naryn oblast,Naryn,2020,poverty_rate_pct,36.8,120
+Naryn oblast,Naryn,2019,poverty_rate_pct,28.1,120
+Osh oblast  (until 2013 y. including Osh city),Osh,2023,poverty_rate_pct,20.4,120
+Osh oblast  (until 2013 y. including Osh city),Osh,2022,poverty_rate_pct,19.9,120
+Osh oblast  (until 2013 y. including Osh city),Osh,2021,poverty_rate_pct,23.8,120
+Osh oblast  (until 2013 y. including Osh city),Osh,2020,poverty_rate_pct,18.8,120
+Osh oblast  (until 2013 y. including Osh city),Osh,2019,poverty_rate_pct,14.0,120
+Talas oblast,Talas,2023,poverty_rate_pct,23.2,120
+Talas oblast,Talas,2022,poverty_rate_pct,23.9,120
+Talas oblast,Talas,2021,poverty_rate_pct,23.5,120
+Talas oblast,Talas,2020,poverty_rate_pct,12.5,120
+Talas oblast,Talas,2019,poverty_rate_pct,13.3,120
+Chui oblast,Chuy,2023,poverty_rate_pct,26.6,120
+Chui oblast,Chuy,2022,poverty_rate_pct,26.1,120
+Chui oblast,Chuy,2021,poverty_rate_pct,27.0,120
+Chui oblast,Chuy,2020,poverty_rate_pct,25.4,120
+Chui oblast,Chuy,2019,poverty_rate_pct,19.1,120
+Bishkek city,Bishkek,2023,poverty_rate_pct,32.4,120
+Bishkek city,Bishkek,2022,poverty_rate_pct,35.7,120
+Bishkek city,Bishkek,2021,poverty_rate_pct,35.8,120
+Bishkek city,Bishkek,2020,poverty_rate_pct,16.8,120
+Bishkek city,Bishkek,2019,poverty_rate_pct,11.9,120
+Osh city,Osh city,2023,poverty_rate_pct,13.9,120
+Osh city,Osh city,2022,poverty_rate_pct,26.6,120
+Osh city,Osh city,2021,poverty_rate_pct,28.6,120
+Osh city,Osh city,2020,poverty_rate_pct,14.7,120
+Osh city,Osh city,2019,poverty_rate_pct,20.7,120
+Kyrgyz Republic,Kyrgyz Republic,2023,poor_population_thousands,2135097.0,295
+Kyrgyz Republic,Kyrgyz Republic,2022,poor_population_thousands,2333162.0,295
+Kyrgyz Republic,Kyrgyz Republic,2021,poor_population_thousands,2244310.0,295
+Kyrgyz Republic,Kyrgyz Republic,2020,poor_population_thousands,1678265.0,295
+Kyrgyz Republic,Kyrgyz Republic,2019,poor_population_thousands,1312808.0,295
+Batken oblast,Batken,2023,poor_population_thousands,280787.0,295
+Batken oblast,Batken,2022,poor_population_thousands,276842.0,295
+Batken oblast,Batken,2021,poor_population_thousands,227212.0,295
+Batken oblast,Batken,2020,poor_population_thousands,190043.0,295
+Batken oblast,Batken,2019,poor_population_thousands,175182.0,295
+Jalal-Abat oblast,Jalal-Abad,2023,poor_population_thousands,481710.0,295
+Jalal-Abat oblast,Jalal-Abad,2022,poor_population_thousands,618047.0,295
+Jalal-Abat oblast,Jalal-Abad,2021,poor_population_thousands,554111.0,295
+Jalal-Abat oblast,Jalal-Abad,2020,poor_population_thousands,469423.0,295
+Jalal-Abat oblast,Jalal-Abad,2019,poor_population_thousands,333834.0,295
+Yssyk-Kul oblast,Issyk-Kul,2023,poor_population_thousands,167949.0,295
+Yssyk-Kul oblast,Issyk-Kul,2022,poor_population_thousands,168191.0,295
+Yssyk-Kul oblast,Issyk-Kul,2021,poor_population_thousands,192902.0,295
+Yssyk-Kul oblast,Issyk-Kul,2020,poor_population_thousands,139909.0,295
+Yssyk-Kul oblast,Issyk-Kul,2019,poor_population_thousands,121283.0,295
+Naryn oblast,Naryn,2023,poor_population_thousands,118881.0,295
+Naryn oblast,Naryn,2022,poor_population_thousands,129660.0,295
+Naryn oblast,Naryn,2021,poor_population_thousands,115228.0,295
+Naryn oblast,Naryn,2020,poor_population_thousands,107560.0,295
+Naryn oblast,Naryn,2019,poor_population_thousands,81496.0,295
+Osh oblast  (until 2013 y. including Osh city),Osh,2023,poor_population_thousands,303918.0,295
+Osh oblast  (until 2013 y. including Osh city),Osh,2022,poor_population_thousands,291289.0,295
+Osh oblast  (until 2013 y. including Osh city),Osh,2021,poor_population_thousands,336101.0,295
+Osh oblast  (until 2013 y. including Osh city),Osh,2020,poor_population_thousands,261842.0,295
+Osh oblast  (until 2013 y. including Osh city),Osh,2019,poor_population_thousands,191932.0,295
+Talas oblast,Talas,2023,poor_population_thousands,64267.0,295
+Talas oblast,Talas,2022,poor_population_thousands,65275.0,295
+Talas oblast,Talas,2021,poor_population_thousands,64204.0,295
+Talas oblast,Talas,2020,poor_population_thousands,33756.0,295
+Talas oblast,Talas,2019,poor_population_thousands,35533.0,295
+Chui oblast,Chuy,2023,poor_population_thousands,289211.0,295
+Chui oblast,Chuy,2022,poor_population_thousands,279237.0,295
+Chui oblast,Chuy,2021,poor_population_thousands,266198.0,295
+Chui oblast,Chuy,2020,poor_population_thousands,247531.0,295
+Chui oblast,Chuy,2019,poor_population_thousands,183304.0,295
+Bishkek city,Bishkek,2023,poor_population_thousands,377500.0,295
+Bishkek city,Bishkek,2022,poor_population_thousands,408514.0,295
+Bishkek city,Bishkek,2021,poor_population_thousands,392986.0,295
+Bishkek city,Bishkek,2020,poor_population_thousands,180748.0,295
+Bishkek city,Bishkek,2019,poor_population_thousands,125660.0,295
+Kyrgyz Republic,Kyrgyz Republic,2023,nominal_income_per_capita_som,781015.2,290
+Kyrgyz Republic,Kyrgyz Republic,2022,nominal_income_per_capita_som,637083.2,290
+Kyrgyz Republic,Kyrgyz Republic,2021,nominal_income_per_capita_som,541755.0,290
+Kyrgyz Republic,Kyrgyz Republic,2020,nominal_income_per_capita_som,451943.5,290
+Kyrgyz Republic,Kyrgyz Republic,2019,nominal_income_per_capita_som,447879.2,290
+Batken oblast,Batken,2023,nominal_income_per_capita_som,56937.8,290
+Batken oblast,Batken,2022,nominal_income_per_capita_som,42746.2,290
+Batken oblast,Batken,2021,nominal_income_per_capita_som,38886.4,290
+Batken oblast,Batken,2020,nominal_income_per_capita_som,33381.4,290
+Batken oblast,Batken,2019,nominal_income_per_capita_som,32022.6,290
+Jalal-Abat oblast,Jalal-Abad,2023,nominal_income_per_capita_som,141826.5,290
+Jalal-Abat oblast,Jalal-Abad,2022,nominal_income_per_capita_som,112791.5,290
+Jalal-Abat oblast,Jalal-Abad,2021,nominal_income_per_capita_som,101142.5,290
+Jalal-Abat oblast,Jalal-Abad,2020,nominal_income_per_capita_som,81921.1,290
+Jalal-Abat oblast,Jalal-Abad,2019,nominal_income_per_capita_som,77818.9,290
+Yssyk-Kul oblast,Issyk-Kul,2023,nominal_income_per_capita_som,63863.4,290
+Yssyk-Kul oblast,Issyk-Kul,2022,nominal_income_per_capita_som,57711.3,290
+Yssyk-Kul oblast,Issyk-Kul,2021,nominal_income_per_capita_som,44069.5,290
+Yssyk-Kul oblast,Issyk-Kul,2020,nominal_income_per_capita_som,35581.5,290
+Yssyk-Kul oblast,Issyk-Kul,2019,nominal_income_per_capita_som,34374.0,290
+Naryn oblast,Naryn,2023,nominal_income_per_capita_som,27879.1,290
+Naryn oblast,Naryn,2022,nominal_income_per_capita_som,24376.3,290
+Naryn oblast,Naryn,2021,nominal_income_per_capita_som,20599.4,290
+Naryn oblast,Naryn,2020,nominal_income_per_capita_som,16387.8,290
+Naryn oblast,Naryn,2019,nominal_income_per_capita_som,16228.1,290
+Osh oblast  (until 2013 y. including Osh city),Osh,2023,nominal_income_per_capita_som,149448.1,290
+Osh oblast  (until 2013 y. including Osh city),Osh,2022,nominal_income_per_capita_som,122095.6,290
+Osh oblast  (until 2013 y. including Osh city),Osh,2021,nominal_income_per_capita_som,112216.9,290
+Osh oblast  (until 2013 y. including Osh city),Osh,2020,nominal_income_per_capita_som,91719.0,290
+Osh oblast  (until 2013 y. including Osh city),Osh,2019,nominal_income_per_capita_som,92318.2,290
+Talas oblast,Talas,2023,nominal_income_per_capita_som,23925.4,290
+Talas oblast,Talas,2022,nominal_income_per_capita_som,19795.0,290
+Talas oblast,Talas,2021,nominal_income_per_capita_som,19004.0,290
+Talas oblast,Talas,2020,nominal_income_per_capita_som,17386.1,290
+Talas oblast,Talas,2019,nominal_income_per_capita_som,15654.4,290
+Chui oblast,Chuy,2023,nominal_income_per_capita_som,120081.5,290
+Chui oblast,Chuy,2022,nominal_income_per_capita_som,102647.9,290
+Chui oblast,Chuy,2021,nominal_income_per_capita_som,82639.5,290
+Chui oblast,Chuy,2020,nominal_income_per_capita_som,70471.5,290
+Chui oblast,Chuy,2019,nominal_income_per_capita_som,72866.6,290
+Bishkek city,Bishkek,2023,nominal_income_per_capita_som,161318.1,290
+Bishkek city,Bishkek,2022,nominal_income_per_capita_som,126879.4,290
+Bishkek city,Bishkek,2021,nominal_income_per_capita_som,101010.2,290
+Bishkek city,Bishkek,2020,nominal_income_per_capita_som,86442.2,290
+Bishkek city,Bishkek,2019,nominal_income_per_capita_som,88411.0,290
+Kyrgyz Republic,Kyrgyz Republic,2023,real_cash_income_yoy_pct,110.6,291
+Kyrgyz Republic,Kyrgyz Republic,2022,real_cash_income_yoy_pct,103.2,291
+Kyrgyz Republic,Kyrgyz Republic,2021,real_cash_income_yoy_pct,107.1,291
+Kyrgyz Republic,Kyrgyz Republic,2020,real_cash_income_yoy_pct,94.9,291
+Kyrgyz Republic,Kyrgyz Republic,2019,real_cash_income_yoy_pct,107.2,291
+Batken oblast,Batken,2023,real_cash_income_yoy_pct,119.2,291
+Batken oblast,Batken,2022,real_cash_income_yoy_pct,95.9,291
+Batken oblast,Batken,2021,real_cash_income_yoy_pct,103.4,291
+Batken oblast,Batken,2020,real_cash_income_yoy_pct,96.5,291
+Batken oblast,Batken,2019,real_cash_income_yoy_pct,107.6,291
+Jalal-Abat oblast,Jalal-Abad,2023,real_cash_income_yoy_pct,111.0,291
+Jalal-Abat oblast,Jalal-Abad,2022,real_cash_income_yoy_pct,96.4,291
+Jalal-Abat oblast,Jalal-Abad,2021,real_cash_income_yoy_pct,108.1,291
+Jalal-Abat oblast,Jalal-Abad,2020,real_cash_income_yoy_pct,99.1,291
+Jalal-Abat oblast,Jalal-Abad,2019,real_cash_income_yoy_pct,109.8,291
+Yssyk-Kul oblast,Issyk-Kul,2023,real_cash_income_yoy_pct,101.9,291
+Yssyk-Kul oblast,Issyk-Kul,2022,real_cash_income_yoy_pct,115.6,291
+Yssyk-Kul oblast,Issyk-Kul,2021,real_cash_income_yoy_pct,112.0,291
+Yssyk-Kul oblast,Issyk-Kul,2020,real_cash_income_yoy_pct,97.3,291
+Yssyk-Kul oblast,Issyk-Kul,2019,real_cash_income_yoy_pct,102.2,291
+Naryn oblast,Naryn,2023,real_cash_income_yoy_pct,98.0,291
+Naryn oblast,Naryn,2022,real_cash_income_yoy_pct,100.2,291
+Naryn oblast,Naryn,2021,real_cash_income_yoy_pct,111.2,291
+Naryn oblast,Naryn,2020,real_cash_income_yoy_pct,94.9,291
+Naryn oblast,Naryn,2019,real_cash_income_yoy_pct,110.0,291
+Osh oblast  (until 2013 y. including Osh city),Osh,2023,real_cash_income_yoy_pct,112.6,291
+Osh oblast  (until 2013 y. including Osh city),Osh,2022,real_cash_income_yoy_pct,98.6,291
+Osh oblast  (until 2013 y. including Osh city),Osh,2021,real_cash_income_yoy_pct,110.8,291
+Osh oblast  (until 2013 y. including Osh city),Osh,2020,real_cash_income_yoy_pct,94.2,291
+Osh oblast  (until 2013 y. including Osh city),Osh,2019,real_cash_income_yoy_pct,106.8,291
+Talas oblast,Talas,2023,real_cash_income_yoy_pct,108.4,291
+Talas oblast,Talas,2022,real_cash_income_yoy_pct,91.7,291
+Talas oblast,Talas,2021,real_cash_income_yoy_pct,98.0,291
+Talas oblast,Talas,2020,real_cash_income_yoy_pct,102.6,291
+Talas oblast,Talas,2019,real_cash_income_yoy_pct,112.3,291
+Chui oblast,Chuy,2023,real_cash_income_yoy_pct,107.7,291
+Chui oblast,Chuy,2022,real_cash_income_yoy_pct,109.7,291
+Chui oblast,Chuy,2021,real_cash_income_yoy_pct,104.3,291
+Chui oblast,Chuy,2020,real_cash_income_yoy_pct,91.1,291
+Chui oblast,Chuy,2019,real_cash_income_yoy_pct,107.1,291
+Bishkek city,Bishkek,2023,real_cash_income_yoy_pct,114.9,291
+Bishkek city,Bishkek,2022,real_cash_income_yoy_pct,108.4,291
+Bishkek city,Bishkek,2021,real_cash_income_yoy_pct,104.9,291
+Bishkek city,Bishkek,2020,real_cash_income_yoy_pct,91.3,291
+Bishkek city,Bishkek,2019,real_cash_income_yoy_pct,105.3,291
+Kyrgyz Republic,Kyrgyz Republic,2024,living_wage_som,7963.7,119
+Kyrgyz Republic,Kyrgyz Republic,2023,living_wage_som,7681.5,119
+Kyrgyz Republic,Kyrgyz Republic,2022,living_wage_som,7178.3,119
+Kyrgyz Republic,Kyrgyz Republic,2021,living_wage_som,6268.3,119
+Kyrgyz Republic,Kyrgyz Republic,2020,living_wage_som,5358.5,119
+Batken oblast,Batken,2024,living_wage_som,7910.9,119
+Batken oblast,Batken,2023,living_wage_som,7516.2,119
+Batken oblast,Batken,2022,living_wage_som,7016.2,119
+Batken oblast,Batken,2021,living_wage_som,6091.5,119
+Batken oblast,Batken,2020,living_wage_som,5156.3,119
+Jalal-Abat oblast,Jalal-Abad,2024,living_wage_som,8218.1,119
+Jalal-Abat oblast,Jalal-Abad,2023,living_wage_som,7931.8,119
+Jalal-Abat oblast,Jalal-Abad,2022,living_wage_som,7542.0,119
+Jalal-Abat oblast,Jalal-Abad,2021,living_wage_som,6648.6,119
+Jalal-Abat oblast,Jalal-Abad,2020,living_wage_som,5755.3,119
+Yssyk-Kul oblast,Issyk-Kul,2024,living_wage_som,7500.9,119
+Yssyk-Kul oblast,Issyk-Kul,2023,living_wage_som,7137.2,119
+Yssyk-Kul oblast,Issyk-Kul,2022,living_wage_som,6780.9,119
+Yssyk-Kul oblast,Issyk-Kul,2021,living_wage_som,5828.7,119
+Yssyk-Kul oblast,Issyk-Kul,2020,living_wage_som,4965.2,119
+Naryn oblast,Naryn,2024,living_wage_som,8043.3,119
+Naryn oblast,Naryn,2023,living_wage_som,7768.7,119
+Naryn oblast,Naryn,2022,living_wage_som,7023.9,119
+Naryn oblast,Naryn,2021,living_wage_som,6174.5,119
+Naryn oblast,Naryn,2020,living_wage_som,5261.6,119
+Osh oblast (until 2017 y. including Osh city),Osh,2024,living_wage_som,7722.7,119
+Osh oblast (until 2017 y. including Osh city),Osh,2023,living_wage_som,7215.6,119
+Osh oblast (until 2017 y. including Osh city),Osh,2022,living_wage_som,6827.7,119
+Osh oblast (until 2017 y. including Osh city),Osh,2021,living_wage_som,6299.9,119
+Osh oblast (until 2017 y. including Osh city),Osh,2020,living_wage_som,5540.9,119
+Talas oblast,Talas,2024,living_wage_som,7664.0,119
+Talas oblast,Talas,2023,living_wage_som,7129.7,119
+Talas oblast,Talas,2022,living_wage_som,6608.3,119
+Talas oblast,Talas,2021,living_wage_som,5754.0,119
+Talas oblast,Talas,2020,living_wage_som,4948.9,119
+Chui oblast,Chuy,2024,living_wage_som,7506.4,119
+Chui oblast,Chuy,2023,living_wage_som,7343.8,119
+Chui oblast,Chuy,2022,living_wage_som,6895.3,119
+Chui oblast,Chuy,2021,living_wage_som,5978.8,119
+Chui oblast,Chuy,2020,living_wage_som,5129.5,119
+Bishkek city,Bishkek,2024,living_wage_som,8170.8,119
+Bishkek city,Bishkek,2023,living_wage_som,7901.1,119
+Bishkek city,Bishkek,2022,living_wage_som,7306.7,119
+Bishkek city,Bishkek,2021,living_wage_som,6317.4,119
+Bishkek city,Bishkek,2020,living_wage_som,5381.1,119
+Kyrgyz Republic,Kyrgyz Republic,2023,thermal_energy_expenditure_share_pct,0.4,126
+Kyrgyz Republic,Kyrgyz Republic,2022,thermal_energy_expenditure_share_pct,0.5,126
+Kyrgyz Republic,Kyrgyz Republic,2021,thermal_energy_expenditure_share_pct,0.5,126
+Kyrgyz Republic,Kyrgyz Republic,2020,thermal_energy_expenditure_share_pct,0.6,126
+Kyrgyz Republic,Kyrgyz Republic,2019,thermal_energy_expenditure_share_pct,0.5,126
+Batken oblast,Batken,2023,thermal_energy_expenditure_share_pct,0.1,126
+Batken oblast,Batken,2022,thermal_energy_expenditure_share_pct,0.1,126
+Batken oblast,Batken,2021,thermal_energy_expenditure_share_pct,0.1,126
+Batken oblast,Batken,2020,thermal_energy_expenditure_share_pct,0.1,126
+Batken oblast,Batken,2019,thermal_energy_expenditure_share_pct,0.1,126
+Jalal-Abat oblast,Jalal-Abad,2023,thermal_energy_expenditure_share_pct,0.1,126
+Jalal-Abat oblast,Jalal-Abad,2022,thermal_energy_expenditure_share_pct,0.2,126
+Jalal-Abat oblast,Jalal-Abad,2021,thermal_energy_expenditure_share_pct,0.2,126
+Jalal-Abat oblast,Jalal-Abad,2020,thermal_energy_expenditure_share_pct,0.2,126
+Jalal-Abat oblast,Jalal-Abad,2019,thermal_energy_expenditure_share_pct,0.1,126
+Yssyk-Kul oblast,Issyk-Kul,2023,thermal_energy_expenditure_share_pct,0.1,126
+Yssyk-Kul oblast,Issyk-Kul,2022,thermal_energy_expenditure_share_pct,0.1,126
+Yssyk-Kul oblast,Issyk-Kul,2021,thermal_energy_expenditure_share_pct,0.1,126
+Yssyk-Kul oblast,Issyk-Kul,2020,thermal_energy_expenditure_share_pct,0.1,126
+Yssyk-Kul oblast,Issyk-Kul,2019,thermal_energy_expenditure_share_pct,0.1,126
+Naryn oblast,Naryn,2023,thermal_energy_expenditure_share_pct,0.2,126
+Naryn oblast,Naryn,2022,thermal_energy_expenditure_share_pct,0.2,126
+Naryn oblast,Naryn,2021,thermal_energy_expenditure_share_pct,0.2,126
+Naryn oblast,Naryn,2020,thermal_energy_expenditure_share_pct,0.3,126
+Naryn oblast,Naryn,2019,thermal_energy_expenditure_share_pct,0.2,126
+Talas oblast,Talas,2023,thermal_energy_expenditure_share_pct,0.1,126
+Talas oblast,Talas,2022,thermal_energy_expenditure_share_pct,0.1,126
+Talas oblast,Talas,2021,thermal_energy_expenditure_share_pct,0.1,126
+Talas oblast,Talas,2020,thermal_energy_expenditure_share_pct,0.1,126
+Talas oblast,Talas,2019,thermal_energy_expenditure_share_pct,0.1,126
+Chui oblast,Chuy,2023,thermal_energy_expenditure_share_pct,0.3,126
+Chui oblast,Chuy,2022,thermal_energy_expenditure_share_pct,0.4,126
+Chui oblast,Chuy,2021,thermal_energy_expenditure_share_pct,0.5,126
+Chui oblast,Chuy,2020,thermal_energy_expenditure_share_pct,0.6,126
+Chui oblast,Chuy,2019,thermal_energy_expenditure_share_pct,0.6,126
+Bishkek city,Bishkek,2023,thermal_energy_expenditure_share_pct,1.2,126
+Bishkek city,Bishkek,2022,thermal_energy_expenditure_share_pct,1.6,126
+Bishkek city,Bishkek,2021,thermal_energy_expenditure_share_pct,1.8,126
+Bishkek city,Bishkek,2020,thermal_energy_expenditure_share_pct,1.8,126
+Bishkek city,Bishkek,2019,thermal_energy_expenditure_share_pct,2.1,126
+Osh city,Osh city,2023,thermal_energy_expenditure_share_pct,0.4,126
+Osh city,Osh city,2022,thermal_energy_expenditure_share_pct,0.8,126
+Osh city,Osh city,2021,thermal_energy_expenditure_share_pct,0.7,126
+Osh city,Osh city,2020,thermal_energy_expenditure_share_pct,0.9,126
+Osh city,Osh city,2019,thermal_energy_expenditure_share_pct,0.9,126
+Kyrgyz Republic,Kyrgyz Republic,2023,energy_costs_share_pct,2.3,125
+Kyrgyz Republic,Kyrgyz Republic,2022,energy_costs_share_pct,2.6,125
+Kyrgyz Republic,Kyrgyz Republic,2021,energy_costs_share_pct,2.8,125
+Kyrgyz Republic,Kyrgyz Republic,2020,energy_costs_share_pct,3.2,125
+Kyrgyz Republic,Kyrgyz Republic,2019,energy_costs_share_pct,3.1,125
+Batken oblast,Batken,2023,energy_costs_share_pct,2.1,125
+Batken oblast,Batken,2022,energy_costs_share_pct,2.2,125
+Batken oblast,Batken,2021,energy_costs_share_pct,2.4,125
+Batken oblast,Batken,2020,energy_costs_share_pct,2.7,125
+Batken oblast,Batken,2019,energy_costs_share_pct,2.0,125
+Jalal-Abat oblast,Jalal-Abad,2023,energy_costs_share_pct,2.8,125
+Jalal-Abat oblast,Jalal-Abad,2022,energy_costs_share_pct,3.4,125
+Jalal-Abat oblast,Jalal-Abad,2021,energy_costs_share_pct,3.5,125
+Jalal-Abat oblast,Jalal-Abad,2020,energy_costs_share_pct,3.7,125
+Jalal-Abat oblast,Jalal-Abad,2019,energy_costs_share_pct,2.5,125
+Yssyk-Kul oblast,Issyk-Kul,2023,energy_costs_share_pct,2.4,125
+Yssyk-Kul oblast,Issyk-Kul,2022,energy_costs_share_pct,2.2,125
+Yssyk-Kul oblast,Issyk-Kul,2021,energy_costs_share_pct,2.5,125
+Yssyk-Kul oblast,Issyk-Kul,2020,energy_costs_share_pct,3.0,125
+Yssyk-Kul oblast,Issyk-Kul,2019,energy_costs_share_pct,3.3,125
+Naryn oblast,Naryn,2023,energy_costs_share_pct,2.4,125
+Naryn oblast,Naryn,2022,energy_costs_share_pct,2.5,125
+Naryn oblast,Naryn,2021,energy_costs_share_pct,2.7,125
+Naryn oblast,Naryn,2020,energy_costs_share_pct,2.8,125
+Naryn oblast,Naryn,2019,energy_costs_share_pct,2.7,125
+Osh oblast  (until 2013 y. including Osh city),Osh,2023,energy_costs_share_pct,1.7,125
+Osh oblast  (until 2013 y. including Osh city),Osh,2022,energy_costs_share_pct,1.8,125
+Osh oblast  (until 2013 y. including Osh city),Osh,2021,energy_costs_share_pct,2.0,125
+Osh oblast  (until 2013 y. including Osh city),Osh,2020,energy_costs_share_pct,2.5,125
+Osh oblast  (until 2013 y. including Osh city),Osh,2019,energy_costs_share_pct,2.2,125
+Talas oblast,Talas,2023,energy_costs_share_pct,4.1,125
+Talas oblast,Talas,2022,energy_costs_share_pct,4.4,125
+Talas oblast,Talas,2021,energy_costs_share_pct,4.8,125
+Talas oblast,Talas,2020,energy_costs_share_pct,5.3,125
+Talas oblast,Talas,2019,energy_costs_share_pct,4.1,125
+Chui oblast,Chuy,2023,energy_costs_share_pct,2.6,125
+Chui oblast,Chuy,2022,energy_costs_share_pct,2.8,125
+Chui oblast,Chuy,2021,energy_costs_share_pct,2.9,125
+Chui oblast,Chuy,2020,energy_costs_share_pct,3.2,125
+Chui oblast,Chuy,2019,energy_costs_share_pct,3.7,125
+Bishkek city,Bishkek,2023,energy_costs_share_pct,2.1,125
+Bishkek city,Bishkek,2022,energy_costs_share_pct,2.6,125
+Bishkek city,Bishkek,2021,energy_costs_share_pct,3.0,125
+Bishkek city,Bishkek,2020,energy_costs_share_pct,3.4,125
+Bishkek city,Bishkek,2019,energy_costs_share_pct,4.5,125
+Osh city,Osh city,2023,energy_costs_share_pct,1.7,125
+Osh city,Osh city,2022,energy_costs_share_pct,2.3,125
+Osh city,Osh city,2021,energy_costs_share_pct,2.7,125
+Osh city,Osh city,2020,energy_costs_share_pct,3.4,125
+Osh city,Osh city,2019,energy_costs_share_pct,3.4,125
+Kyrgyz Republic,Kyrgyz Republic,2023,regional_income_to_national_pct,100.0,3104
+Kyrgyz Republic,Kyrgyz Republic,2022,regional_income_to_national_pct,100.0,3104
+Kyrgyz Republic,Kyrgyz Republic,2021,regional_income_to_national_pct,100.0,3104
+Kyrgyz Republic,Kyrgyz Republic,2020,regional_income_to_national_pct,100.0,3104
+Kyrgyz Republic,Kyrgyz Republic,2019,regional_income_to_national_pct,100.0,3104
+Batken oblast,Batken,2023,regional_income_to_national_pct,101.7,3104
+Batken oblast,Batken,2022,regional_income_to_national_pct,94.8,3104
+Batken oblast,Batken,2021,regional_income_to_national_pct,93.3,3104
+Batken oblast,Batken,2020,regional_income_to_national_pct,95.8,3104
+Batken oblast,Batken,2019,regional_income_to_national_pct,94.1,3104
+Jalal-Abat oblast,Jalal-Abad,2023,regional_income_to_national_pct,106.3,3104
+Jalal-Abat oblast,Jalal-Abad,2022,regional_income_to_national_pct,103.8,3104
+Jalal-Abat oblast,Jalal-Abad,2021,regional_income_to_national_pct,100.4,3104
+Jalal-Abat oblast,Jalal-Abad,2020,regional_income_to_national_pct,96.3,3104
+Jalal-Abat oblast,Jalal-Abad,2019,regional_income_to_national_pct,93.1,3104
+Yssyk-Kul oblast,Issyk-Kul,2023,regional_income_to_national_pct,104.0,3104
+Yssyk-Kul oblast,Issyk-Kul,2022,regional_income_to_national_pct,114.7,3104
+Yssyk-Kul oblast,Issyk-Kul,2021,regional_income_to_national_pct,107.9,3104
+Yssyk-Kul oblast,Issyk-Kul,2020,regional_income_to_national_pct,114.4,3104
+Yssyk-Kul oblast,Issyk-Kul,2019,regional_income_to_national_pct,100.6,3104
+Naryn oblast,Naryn,2023,regional_income_to_national_pct,85.3,3104
+Naryn oblast,Naryn,2022,regional_income_to_national_pct,89.3,3104
+Naryn oblast,Naryn,2021,regional_income_to_national_pct,87.4,3104
+Naryn oblast,Naryn,2020,regional_income_to_national_pct,81.6,3104
+Naryn oblast,Naryn,2019,regional_income_to_national_pct,82.0,3104
+Osh oblast  (until 2013 y. including Osh city),Osh,2023,regional_income_to_national_pct,97.9,3104
+Osh oblast  (until 2013 y. including Osh city),Osh,2022,regional_income_to_national_pct,98.5,3104
+Osh oblast  (until 2013 y. including Osh city),Osh,2021,regional_income_to_national_pct,104.1,3104
+Osh oblast  (until 2013 y. including Osh city),Osh,2020,regional_income_to_national_pct,101.3,3104
+Osh oblast  (until 2013 y. including Osh city),Osh,2019,regional_income_to_national_pct,104.0,3104
+Talas oblast,Talas,2023,regional_income_to_national_pct,86.5,3104
+Talas oblast,Talas,2022,regional_income_to_national_pct,87.9,3104
+Talas oblast,Talas,2021,regional_income_to_national_pct,86.2,3104
+Talas oblast,Talas,2020,regional_income_to_national_pct,93.6,3104
+Talas oblast,Talas,2019,regional_income_to_national_pct,85.0,3104
+Chui oblast,Chuy,2023,regional_income_to_national_pct,95.7,3104
+Chui oblast,Chuy,2022,regional_income_to_national_pct,100.3,3104
+Chui oblast,Chuy,2021,regional_income_to_national_pct,101.6,3104
+Chui oblast,Chuy,2020,regional_income_to_national_pct,102.7,3104
+Chui oblast,Chuy,2019,regional_income_to_national_pct,107.6,3104
+Bishkek city,Bishkek,2023,regional_income_to_national_pct,110.8,3104
+Bishkek city,Bishkek,2022,regional_income_to_national_pct,106.7,3104
+Bishkek city,Bishkek,2021,regional_income_to_national_pct,104.5,3104
+Bishkek city,Bishkek,2020,regional_income_to_national_pct,106.9,3104
+Bishkek city,Bishkek,2019,regional_income_to_national_pct,111.5,3104
+Batken oblast,Batken,2023,pension_recipients_thousands,70149.0,4296
+Batken oblast,Batken,2022,pension_recipients_thousands,67484.0,4296
+Batken oblast,Batken,2021,pension_recipients_thousands,64565.0,4296
+Batken oblast,Batken,2020,pension_recipients_thousands,62472.0,4296
+Batken oblast,Batken,2019,pension_recipients_thousands,60668.0,4296
+Djalal-abad oblast,Djalal-abad oblast,2023,pension_recipients_thousands,148058.0,4296
+Djalal-abad oblast,Djalal-abad oblast,2022,pension_recipients_thousands,142619.0,4296
+Djalal-abad oblast,Djalal-abad oblast,2021,pension_recipients_thousands,136486.0,4296
+Djalal-abad oblast,Djalal-abad oblast,2020,pension_recipients_thousands,131790.0,4296
+Djalal-abad oblast,Djalal-abad oblast,2019,pension_recipients_thousands,127367.0,4296
+Ysykkul oblast,Ysykkul oblast,2023,pension_recipients_thousands,74550.0,4296
+Ysykkul oblast,Ysykkul oblast,2022,pension_recipients_thousands,72429.0,4296
+Ysykkul oblast,Ysykkul oblast,2021,pension_recipients_thousands,70131.0,4296
+Ysykkul oblast,Ysykkul oblast,2020,pension_recipients_thousands,68149.0,4296
+Ysykkul oblast,Ysykkul oblast,2019,pension_recipients_thousands,66214.0,4296
+Naryn oblast,Naryn,2023,pension_recipients_thousands,58264.0,4296
+Naryn oblast,Naryn,2022,pension_recipients_thousands,57267.0,4296
+Naryn oblast,Naryn,2021,pension_recipients_thousands,56303.0,4296
+Naryn oblast,Naryn,2020,pension_recipients_thousands,54766.0,4296
+Naryn oblast,Naryn,2019,pension_recipients_thousands,53922.0,4296
+Osh oblast,Osh,2023,pension_recipients_thousands,158134.0,4296
+Osh oblast,Osh,2022,pension_recipients_thousands,152554.0,4296
+Osh oblast,Osh,2021,pension_recipients_thousands,147639.0,4296
+Osh oblast,Osh,2020,pension_recipients_thousands,142981.0,4296
+Osh oblast,Osh,2019,pension_recipients_thousands,138459.0,4296
+Talas oblast,Talas,2023,pension_recipients_thousands,35680.0,4296
+Talas oblast,Talas,2022,pension_recipients_thousands,34781.0,4296
+Talas oblast,Talas,2021,pension_recipients_thousands,33135.0,4296
+Talas oblast,Talas,2020,pension_recipients_thousands,31892.0,4296
+Talas oblast,Talas,2019,pension_recipients_thousands,31695.0,4296
+Chui oblast,Chuy,2023,pension_recipients_thousands,121689.0,4296
+Chui oblast,Chuy,2022,pension_recipients_thousands,117802.0,4296
+Chui oblast,Chuy,2021,pension_recipients_thousands,112976.0,4296
+Chui oblast,Chuy,2020,pension_recipients_thousands,110166.0,4296
+Chui oblast,Chuy,2019,pension_recipients_thousands,106611.0,4296
+Bishkek city,Bishkek,2023,pension_recipients_thousands,122021.0,4296
+Bishkek city,Bishkek,2022,pension_recipients_thousands,117198.0,4296
+Bishkek city,Bishkek,2021,pension_recipients_thousands,109945.0,4296
+Bishkek city,Bishkek,2020,pension_recipients_thousands,107366.0,4296
+Bishkek city,Bishkek,2019,pension_recipients_thousands,104949.0,4296
+Osh city,Osh city,2023,pension_recipients_thousands,28960.0,4296
+Osh city,Osh city,2022,pension_recipients_thousands,28057.0,4296
+Osh city,Osh city,2021,pension_recipients_thousands,27203.0,4296
+Osh city,Osh city,2020,pension_recipients_thousands,26232.0,4296
+Osh city,Osh city,2019,pension_recipients_thousands,25052.0,4296
+Batken oblast,Batken,2023,old_age_pension_recipients_thousands,50304.0,4300
+Batken oblast,Batken,2022,old_age_pension_recipients_thousands,47749.0,4300
+Batken oblast,Batken,2021,old_age_pension_recipients_thousands,45455.0,4300
+Batken oblast,Batken,2020,old_age_pension_recipients_thousands,43393.0,4300
+Batken oblast,Batken,2019,old_age_pension_recipients_thousands,41682.0,4300
+Djalal-abad oblast,Djalal-abad oblast,2023,old_age_pension_recipients_thousands,106329.0,4300
+Djalal-abad oblast,Djalal-abad oblast,2022,old_age_pension_recipients_thousands,101969.0,4300
+Djalal-abad oblast,Djalal-abad oblast,2021,old_age_pension_recipients_thousands,97140.0,4300
+Djalal-abad oblast,Djalal-abad oblast,2020,old_age_pension_recipients_thousands,93106.0,4300
+Djalal-abad oblast,Djalal-abad oblast,2019,old_age_pension_recipients_thousands,89352.0,4300
+Ysykkul oblast,Ysykkul oblast,2023,old_age_pension_recipients_thousands,55345.0,4300
+Ysykkul oblast,Ysykkul oblast,2022,old_age_pension_recipients_thousands,53306.0,4300
+Ysykkul oblast,Ysykkul oblast,2021,old_age_pension_recipients_thousands,51217.0,4300
+Ysykkul oblast,Ysykkul oblast,2020,old_age_pension_recipients_thousands,49242.0,4300
+Ysykkul oblast,Ysykkul oblast,2019,old_age_pension_recipients_thousands,47517.0,4300
+Naryn oblast,Naryn,2023,old_age_pension_recipients_thousands,45544.0,4300
+Naryn oblast,Naryn,2022,old_age_pension_recipients_thousands,44458.0,4300
+Naryn oblast,Naryn,2021,old_age_pension_recipients_thousands,43339.0,4300
+Naryn oblast,Naryn,2020,old_age_pension_recipients_thousands,42034.0,4300
+Naryn oblast,Naryn,2019,old_age_pension_recipients_thousands,41027.0,4300
+Osh oblast,Osh,2023,old_age_pension_recipients_thousands,122536.0,4300
+Osh oblast,Osh,2022,old_age_pension_recipients_thousands,116322.0,4300
+Osh oblast,Osh,2021,old_age_pension_recipients_thousands,111405.0,4300
+Osh oblast,Osh,2020,old_age_pension_recipients_thousands,106303.0,4300
+Osh oblast,Osh,2019,old_age_pension_recipients_thousands,101193.0,4300
+Talas oblast,Talas,2023,old_age_pension_recipients_thousands,25713.0,4300
+Talas oblast,Talas,2022,old_age_pension_recipients_thousands,24820.0,4300
+Talas oblast,Talas,2021,old_age_pension_recipients_thousands,23482.0,4300
+Talas oblast,Talas,2020,old_age_pension_recipients_thousands,22597.0,4300
+Talas oblast,Talas,2019,old_age_pension_recipients_thousands,22025.0,4300
+Chui oblast,Chuy,2023,old_age_pension_recipients_thousands,94183.0,4300
+Chui oblast,Chuy,2022,old_age_pension_recipients_thousands,90523.0,4300
+Chui oblast,Chuy,2021,old_age_pension_recipients_thousands,86749.0,4300
+Chui oblast,Chuy,2020,old_age_pension_recipients_thousands,83879.0,4300
+Chui oblast,Chuy,2019,old_age_pension_recipients_thousands,80552.0,4300
+Bishkek city,Bishkek,2023,old_age_pension_recipients_thousands,101768.0,4300
+Bishkek city,Bishkek,2022,old_age_pension_recipients_thousands,97832.0,4300
+Bishkek city,Bishkek,2021,old_age_pension_recipients_thousands,91838.0,4300
+Bishkek city,Bishkek,2020,old_age_pension_recipients_thousands,89338.0,4300
+Bishkek city,Bishkek,2019,old_age_pension_recipients_thousands,86870.0,4300
+Osh city,Osh city,2023,old_age_pension_recipients_thousands,23746.0,4300
+Osh city,Osh city,2022,old_age_pension_recipients_thousands,22781.0,4300
+Osh city,Osh city,2021,old_age_pension_recipients_thousands,21748.0,4300
+Osh city,Osh city,2020,old_age_pension_recipients_thousands,20700.0,4300
+Osh city,Osh city,2019,old_age_pension_recipients_thousands,19546.0,4300
+Kyrgyz Republic,Kyrgyz Republic,2023,safe_drinking_water_share_pct,95.4,5765
+Kyrgyz Republic,Kyrgyz Republic,2022,safe_drinking_water_share_pct,96.3,5765
+Kyrgyz Republic,Kyrgyz Republic,2021,safe_drinking_water_share_pct,95.1,5765
+Kyrgyz Republic,Kyrgyz Republic,2020,safe_drinking_water_share_pct,94.1,5765
+Kyrgyz Republic,Kyrgyz Republic,2019,safe_drinking_water_share_pct,94.1,5765
+Batken oblast,Batken,2023,safe_drinking_water_share_pct,87.7,5765
+Batken oblast,Batken,2022,safe_drinking_water_share_pct,88.3,5765
+Batken oblast,Batken,2021,safe_drinking_water_share_pct,88.2,5765
+Batken oblast,Batken,2020,safe_drinking_water_share_pct,86.9,5765
+Batken oblast,Batken,2019,safe_drinking_water_share_pct,81.0,5765
+Jalal-Abat oblast,Jalal-Abad,2023,safe_drinking_water_share_pct,92.4,5765
+Jalal-Abat oblast,Jalal-Abad,2022,safe_drinking_water_share_pct,93.9,5765
+Jalal-Abat oblast,Jalal-Abad,2021,safe_drinking_water_share_pct,92.2,5765
+Jalal-Abat oblast,Jalal-Abad,2020,safe_drinking_water_share_pct,87.0,5765
+Jalal-Abat oblast,Jalal-Abad,2019,safe_drinking_water_share_pct,88.7,5765
+Yssyk-Kul oblast,Issyk-Kul,2023,safe_drinking_water_share_pct,100.0,5765
+Yssyk-Kul oblast,Issyk-Kul,2022,safe_drinking_water_share_pct,98.2,5765
+Yssyk-Kul oblast,Issyk-Kul,2021,safe_drinking_water_share_pct,96.8,5765
+Yssyk-Kul oblast,Issyk-Kul,2020,safe_drinking_water_share_pct,96.3,5765
+Yssyk-Kul oblast,Issyk-Kul,2019,safe_drinking_water_share_pct,96.3,5765
+Naryn oblast,Naryn,2023,safe_drinking_water_share_pct,98.3,5765
+Naryn oblast,Naryn,2022,safe_drinking_water_share_pct,98.0,5765
+Naryn oblast,Naryn,2021,safe_drinking_water_share_pct,97.7,5765
+Naryn oblast,Naryn,2020,safe_drinking_water_share_pct,97.8,5765
+Naryn oblast,Naryn,2019,safe_drinking_water_share_pct,96.8,5765
+Osh oblast  (until 2013 y. including Osh city),Osh,2023,safe_drinking_water_share_pct,89.9,5765
+Osh oblast  (until 2013 y. including Osh city),Osh,2022,safe_drinking_water_share_pct,93.6,5765
+Osh oblast  (until 2013 y. including Osh city),Osh,2021,safe_drinking_water_share_pct,90.2,5765
+Osh oblast  (until 2013 y. including Osh city),Osh,2020,safe_drinking_water_share_pct,90.7,5765
+Osh oblast  (until 2013 y. including Osh city),Osh,2019,safe_drinking_water_share_pct,92.4,5765
+Talas oblast,Talas,2023,safe_drinking_water_share_pct,99.6,5765
+Talas oblast,Talas,2022,safe_drinking_water_share_pct,99.6,5765
+Talas oblast,Talas,2021,safe_drinking_water_share_pct,99.7,5765
+Talas oblast,Talas,2020,safe_drinking_water_share_pct,99.7,5765
+Talas oblast,Talas,2019,safe_drinking_water_share_pct,99.3,5765
+Chui oblast,Chuy,2023,safe_drinking_water_share_pct,100.0,5765
+Chui oblast,Chuy,2022,safe_drinking_water_share_pct,100.0,5765
+Chui oblast,Chuy,2021,safe_drinking_water_share_pct,100.0,5765
+Chui oblast,Chuy,2020,safe_drinking_water_share_pct,100.0,5765
+Chui oblast,Chuy,2019,safe_drinking_water_share_pct,100.0,5765
+Bishkek city,Bishkek,2023,safe_drinking_water_share_pct,100.0,5765
+Bishkek city,Bishkek,2022,safe_drinking_water_share_pct,100.0,5765
+Bishkek city,Bishkek,2021,safe_drinking_water_share_pct,100.0,5765
+Bishkek city,Bishkek,2020,safe_drinking_water_share_pct,100.0,5765
+Bishkek city,Bishkek,2019,safe_drinking_water_share_pct,100.0,5765
+Kyrgyz Republic,Kyrgyz Republic,2022,electricity_access_share_pct,73.1,5766
+Kyrgyz Republic,Kyrgyz Republic,2021,electricity_access_share_pct,70.8,5766
+Kyrgyz Republic,Kyrgyz Republic,2020,electricity_access_share_pct,72.8,5766
+Kyrgyz Republic,Kyrgyz Republic,2019,electricity_access_share_pct,76.1,5766
+Kyrgyz Republic,Kyrgyz Republic,2018,electricity_access_share_pct,75.7,5766
+Batken oblast,Batken,2022,electricity_access_share_pct,59.2,5766
+Batken oblast,Batken,2021,electricity_access_share_pct,53.5,5766
+Batken oblast,Batken,2020,electricity_access_share_pct,71.0,5766
+Batken oblast,Batken,2019,electricity_access_share_pct,71.6,5766
+Batken oblast,Batken,2018,electricity_access_share_pct,71.8,5766
+Djalal-Abad oblast,Djalal-Abad oblast,2022,electricity_access_share_pct,53.6,5766
+Djalal-Abad oblast,Djalal-Abad oblast,2021,electricity_access_share_pct,54.3,5766
+Djalal-Abad oblast,Djalal-Abad oblast,2020,electricity_access_share_pct,52.6,5766
+Djalal-Abad oblast,Djalal-Abad oblast,2019,electricity_access_share_pct,66.6,5766
+Djalal-Abad oblast,Djalal-Abad oblast,2018,electricity_access_share_pct,64.4,5766
+Ysyk-Kul oblast,Ysyk-Kul oblast,2022,electricity_access_share_pct,46.9,5766
+Ysyk-Kul oblast,Ysyk-Kul oblast,2021,electricity_access_share_pct,53.8,5766
+Ysyk-Kul oblast,Ysyk-Kul oblast,2020,electricity_access_share_pct,48.6,5766
+Ysyk-Kul oblast,Ysyk-Kul oblast,2019,electricity_access_share_pct,66.5,5766
+Ysyk-Kul oblast,Ysyk-Kul oblast,2018,electricity_access_share_pct,67.0,5766
+Naryn oblast,Naryn,2022,electricity_access_share_pct,70.9,5766
+Naryn oblast,Naryn,2021,electricity_access_share_pct,77.9,5766
+Naryn oblast,Naryn,2020,electricity_access_share_pct,77.4,5766
+Naryn oblast,Naryn,2019,electricity_access_share_pct,67.0,5766
+Naryn oblast,Naryn,2018,electricity_access_share_pct,79.0,5766
+Osh oblast,Osh,2022,electricity_access_share_pct,73.7,5766
+Osh oblast,Osh,2021,electricity_access_share_pct,63.5,5766
+Osh oblast,Osh,2020,electricity_access_share_pct,66.9,5766
+Osh oblast,Osh,2019,electricity_access_share_pct,68.3,5766
+Osh oblast,Osh,2018,electricity_access_share_pct,66.6,5766
+Talas oblast,Talas,2022,electricity_access_share_pct,54.1,5766
+Talas oblast,Talas,2021,electricity_access_share_pct,54.4,5766
+Talas oblast,Talas,2020,electricity_access_share_pct,53.6,5766
+Talas oblast,Talas,2019,electricity_access_share_pct,52.5,5766
+Talas oblast,Talas,2018,electricity_access_share_pct,54.0,5766
+Chui oblast,Chuy,2022,electricity_access_share_pct,84.7,5766
+Chui oblast,Chuy,2021,electricity_access_share_pct,82.3,5766
+Chui oblast,Chuy,2020,electricity_access_share_pct,87.3,5766
+Chui oblast,Chuy,2019,electricity_access_share_pct,84.9,5766
+Chui oblast,Chuy,2018,electricity_access_share_pct,88.4,5766
+Bishkek city,Bishkek,2022,electricity_access_share_pct,100.0,5766
+Bishkek city,Bishkek,2021,electricity_access_share_pct,99.4,5766
+Bishkek city,Bishkek,2020,electricity_access_share_pct,99.6,5766
+Bishkek city,Bishkek,2019,electricity_access_share_pct,98.2,5766
+Bishkek city,Bishkek,2018,electricity_access_share_pct,93.9,5766
+Osh city,Osh city,2022,electricity_access_share_pct,99.9,5766
+Osh city,Osh city,2021,electricity_access_share_pct,100.0,5766
+Osh city,Osh city,2020,electricity_access_share_pct,100.0,5766
+Osh city,Osh city,2019,electricity_access_share_pct,99.8,5766
+Osh city,Osh city,2018,electricity_access_share_pct,100.0,5766
+Kyrgyz Republic,Kyrgyz Republic,2023,sewerage_access_share_pct,48.2,123
+Kyrgyz Republic,Kyrgyz Republic,2022,sewerage_access_share_pct,42.6,123
+Kyrgyz Republic,Kyrgyz Republic,2021,sewerage_access_share_pct,40.0,123
+Kyrgyz Republic,Kyrgyz Republic,2020,sewerage_access_share_pct,34.4,123
+Kyrgyz Republic,Kyrgyz Republic,2019,sewerage_access_share_pct,31.5,123
+Batken oblast,Batken,2023,sewerage_access_share_pct,8.7,123
+Batken oblast,Batken,2022,sewerage_access_share_pct,8.1,123
+Batken oblast,Batken,2021,sewerage_access_share_pct,5.7,123
+Batken oblast,Batken,2020,sewerage_access_share_pct,4.8,123
+Batken oblast,Batken,2019,sewerage_access_share_pct,5.9,123
+Jalal-Abat oblast,Jalal-Abad,2023,sewerage_access_share_pct,12.2,123
+Jalal-Abat oblast,Jalal-Abad,2022,sewerage_access_share_pct,10.7,123
+Jalal-Abat oblast,Jalal-Abad,2021,sewerage_access_share_pct,9.0,123
+Jalal-Abat oblast,Jalal-Abad,2020,sewerage_access_share_pct,6.0,123
+Jalal-Abat oblast,Jalal-Abad,2019,sewerage_access_share_pct,6.2,123
+Yssyk-Kul oblast,Issyk-Kul,2023,sewerage_access_share_pct,78.5,123
+Yssyk-Kul oblast,Issyk-Kul,2022,sewerage_access_share_pct,82.0,123
+Yssyk-Kul oblast,Issyk-Kul,2021,sewerage_access_share_pct,66.3,123
+Yssyk-Kul oblast,Issyk-Kul,2020,sewerage_access_share_pct,51.2,123
+Yssyk-Kul oblast,Issyk-Kul,2019,sewerage_access_share_pct,30.5,123
+Naryn oblast,Naryn,2023,sewerage_access_share_pct,59.5,123
+Naryn oblast,Naryn,2022,sewerage_access_share_pct,29.8,123
+Naryn oblast,Naryn,2021,sewerage_access_share_pct,23.5,123
+Naryn oblast,Naryn,2020,sewerage_access_share_pct,27.2,123
+Naryn oblast,Naryn,2019,sewerage_access_share_pct,21.8,123
+Osh oblast  (until 2013 y. including Osh city),Osh,2023,sewerage_access_share_pct,26.6,123
+Osh oblast  (until 2013 y. including Osh city),Osh,2022,sewerage_access_share_pct,9.7,123
+Osh oblast  (until 2013 y. including Osh city),Osh,2021,sewerage_access_share_pct,9.8,123
+Osh oblast  (until 2013 y. including Osh city),Osh,2020,sewerage_access_share_pct,0.9,123
+Osh oblast  (until 2013 y. including Osh city),Osh,2019,sewerage_access_share_pct,1.7,123
+Talas oblast,Talas,2023,sewerage_access_share_pct,8.2,123
+Talas oblast,Talas,2022,sewerage_access_share_pct,8.6,123
+Talas oblast,Talas,2021,sewerage_access_share_pct,9.4,123
+Talas oblast,Talas,2020,sewerage_access_share_pct,7.9,123
+Talas oblast,Talas,2019,sewerage_access_share_pct,6.2,123
+Chui oblast,Chuy,2023,sewerage_access_share_pct,74.6,123
+Chui oblast,Chuy,2022,sewerage_access_share_pct,69.9,123
+Chui oblast,Chuy,2021,sewerage_access_share_pct,70.5,123
+Chui oblast,Chuy,2020,sewerage_access_share_pct,64.7,123
+Chui oblast,Chuy,2019,sewerage_access_share_pct,63.3,123
+Bishkek city,Bishkek,2023,sewerage_access_share_pct,99.2,123
+Bishkek city,Bishkek,2022,sewerage_access_share_pct,99.1,123
+Bishkek city,Bishkek,2021,sewerage_access_share_pct,98.4,123
+Bishkek city,Bishkek,2020,sewerage_access_share_pct,97.7,123
+Bishkek city,Bishkek,2019,sewerage_access_share_pct,96.1,123
